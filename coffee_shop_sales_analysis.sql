@@ -1,0 +1,12 @@
+-- ============================================================
+-- COFFEE SHOP SALES ANALYSIS
+-- PostgreSQL
+-- ============================================================
+--
+-- Objective:
+-- Analyse coffee shop transaction data to identify sales trends,
+-- store performance, customer purchasing patterns, and product
+-- performance across three store locations.
+--
+-- Dataset period: January 2023 - June 2023
+-- ============================================================
