@@ -71,7 +71,6 @@ Important fields used in the analysis include:
 - PostgreSQL
 - DBeaver
 - GitHub
-- -SQL
 
 **SQL Skills**
 - Aggregate functions
