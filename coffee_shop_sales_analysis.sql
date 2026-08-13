@@ -8,14 +8,8 @@
 -- store performance, customer purchasing patterns, and product
 -- performance across three store locations.
 --
--- Dataset period: January 2023 - June 2023
+-- Analysis period: January 2023 - June 2023
 -- ============================================================
-
--- =====================================================
--- COFFEE SHOP SALES ANALYSIS
--- PostgreSQL
--- =====================================================
-
 
 -- 1. DATA QUALITY CHECKS
 -- Check total rows and uniqueness of transaction IDs
