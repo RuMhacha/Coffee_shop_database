@@ -65,13 +65,39 @@ Important fields used in the analysis include:
 
 ---
 
-## Tools & Technologies
+## Tools 
 
 - PostgreSQL
 - DBeaver
 - SQL
 
 ---
+
+## Technologies & Skills
+
+**Technologies**
+- PostgreSQL
+- DBeaver
+- GitHub
+
+**SQL Skills**
+- Aggregate functions
+- Common Table Expressions (CTEs)
+- Window functions
+- `LAG()`
+- `ROW_NUMBER()`
+- Subqueries
+- Conditional logic with `CASE`
+- Date and time analysis
+- Data quality checks
+
+**Analytical Skills**
+- Sales performance analysis
+- Trend analysis
+- Product performance analysis
+- Store performance comparison
+- Customer purchasing pattern analysis
+- Translating data into business recommendations
 
 # Data Analysis
 
