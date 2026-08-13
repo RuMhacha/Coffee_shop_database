@@ -7,6 +7,12 @@ This project analyses transactional sales data from three coffee shop locations 
 The objective was to transform raw transaction data into meaningful business insights by examining overall sales performance, store performance, monthly trends, customer purchasing behaviour, and product performance.
 
 The analysis also demonstrates practical SQL skills including aggregation, conditional logic, Common Table Expressions (CTEs), subqueries, window functions, ranking functions, and time-based analysis.
+
+## SQL Analysis
+
+The complete PostgreSQL analysis can be found here:
+
+[`coffee_shop_sales_analysis.sql`](coffee_shop_sales_analysis.sql)
  
 ---
 
