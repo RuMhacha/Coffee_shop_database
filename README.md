@@ -92,6 +92,10 @@ The business generated approximately:
 
 These metrics establish the overall scale of sales activity during the six-month period.
 
+### SQL Query Result
+
+![Overall Sales Performance](images/overall_sales.png)
+
 ---
 
 ## 3. Store Performance
@@ -108,6 +112,12 @@ The analysis measured:
 **Hell's Kitchen recorded the highest transaction volume**, with approximately **50,735 transactions**, followed closely by Astoria.
 
 Despite relatively similar activity across the locations, analysing each store separately helps identify differences in product mix and customer purchasing patterns.
+
+
+### SQL Query Result
+
+![Store Performance](images/store_performance.png)
+
 
 ---
 
@@ -139,6 +149,10 @@ June generated the highest monthly revenue.
 The `LAG()` window function was used to compare each month's revenue with the previous month and calculate month-over-month growth.
 
 This analysis demonstrates that the business experienced strong overall growth during the first half of 2023.
+
+### SQL Query Result
+
+![Monthly Revenue Growth](images/monthly_revenue_growth.png)
 
 ---
 
@@ -209,6 +223,10 @@ The highest-revenue product types included:
 
 This highlights the importance of espresso-based products within the overall product portfolio.
 
+### SQL Query Result
+
+![Top 10 Products by Revenue](images/top_10_products_by_revenue.png)
+
 ---
 
 ## 7. Store & Product Analysis
@@ -230,6 +248,7 @@ The results demonstrate that no single location dominates every product category
 Instead, different stores show strengths across different areas of the product portfolio.
 
 This could help management develop location-specific merchandising, inventory, and promotional strategies.
+
 
 ---
 
