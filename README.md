@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes transactional sales data from three coffee shop locations using PostgreSQL.
+This project analyses transactional sales data from three coffee shop locations using PostgreSQL.
 
 The objective was to transform raw transaction data into meaningful business insights by examining overall sales performance, store performance, monthly trends, customer purchasing behaviour, and product performance.
 
