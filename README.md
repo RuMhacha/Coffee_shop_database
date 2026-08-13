@@ -37,7 +37,7 @@ The analysis was designed to answer questions such as:
 
 ### Data Source
 
-The dataset used in this project was obtained from https://mavenanalytics.io/data-playground/coffee-shop-sales?utm_source=chatgpt.com .
+The dataset used in this project was obtained from https://mavenanalytics.io/data-playground/coffee-shop-sales? .
 
 The original dataset was supplied as an Excel workbook and converted to CSV format for loading into PostgreSQL.
 
