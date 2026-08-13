@@ -372,7 +372,7 @@ Revenue increased significantly from March through June. Further analysis could 
 ## Repository Structure
 
 ```text
-Coffee_shop_database/
+Coffee_shop_sales_analysis/
 │
 ├── coffee_shop_sales_analysis.sql
 ├── README.md
