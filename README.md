@@ -65,20 +65,13 @@ Important fields used in the analysis include:
 
 ---
 
-## Tools 
-
-- PostgreSQL
-- DBeaver
-- SQL
-
----
-
 ## Technologies & Skills
 
 **Technologies**
 - PostgreSQL
 - DBeaver
 - GitHub
+- -SQL
 
 **SQL Skills**
 - Aggregate functions
