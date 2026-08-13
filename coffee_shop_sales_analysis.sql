@@ -11,6 +11,8 @@
 -- Analysis period: January 2023 - June 2023
 -- ============================================================
 
+
+
 -- 1. DATA QUALITY CHECKS
 -- Check total rows and uniqueness of transaction IDs
 SELECT
