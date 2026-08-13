@@ -341,8 +341,8 @@ Revenue increased significantly from March through June. Further analysis could 
 
 Coffee_shop_database/
 │
+├── coffee_shop_sales_analysis.sql
 ├── README.md
-├── Coffee_shop_database.sql
 │
 └── images/
     ├── overall_sales.png
