@@ -376,3 +376,4 @@ Coffee_shop_sales_analysis/
     ├── monthly_revenue_growth.png
     └── top_10_products_by_revenue.png
 ```
+
