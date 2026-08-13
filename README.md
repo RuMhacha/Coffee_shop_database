@@ -29,6 +29,14 @@ The analysis was designed to answer questions such as:
 
 ## Dataset
 
+### Data Source
+
+The dataset used in this project was obtained from https://mavenanalytics.io/data-playground/coffee-shop-sales?utm_source=chatgpt.com .
+
+The original dataset was supplied as an Excel workbook and converted to CSV format for loading into PostgreSQL.
+
+The analysis uses transaction-level sales data covering January to June 2023.
+
 The dataset contains transaction-level sales records from three coffee shop locations:
 
 - Astoria
